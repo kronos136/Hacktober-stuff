@@ -1,3 +1,2 @@
 # Hacktober-stuff
-what
-is 
+what's going on?
